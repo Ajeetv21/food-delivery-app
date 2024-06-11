@@ -49,3 +49,12 @@ explore-menu hr{
 scale: 1.6vw;
 
 }
+
+@media (max-width:1050px) {
+
+    .explore-menu-text{
+        max-width: 95%;
+        font-size: 14px;
+    }
+     
+   }
